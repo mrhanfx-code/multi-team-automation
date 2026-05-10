@@ -4,7 +4,7 @@ services:
     name: mfm-dashboard
     env: python
     plan: free
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install fastapi uvicorn python-dotenv supabase aiofiles pydantic
     startCommand: python enhanced_dashboard_server.py
     healthCheckPath: /api/health
     envVars:
