@@ -5,7 +5,7 @@ services:
     env: python
     plan: free
     buildCommand: pip install fastapi uvicorn python-dotenv supabase aiofiles pydantic websockets
-    startCommand: python enhanced_dashboard_server.py
+    startCommand: python ./enhanced_dashboard_server.py
     healthCheckPath: /api/health
     envVars:
       - key: PYTHON_VERSION
