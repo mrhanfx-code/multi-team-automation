@@ -1,0 +1,27 @@
+{
+  "development_type": "document_development",
+  "quality_score": 0.9299999999999999,
+  "completion_time": "8 hours",
+  "team_size": 3,
+  "challenges": [],
+  "innovations": [],
+  "documentation_types": {
+    "technical": [
+      "API documentation",
+      "Architecture diagrams"
+    ],
+    "user": [
+      "User manual",
+      "Quick start guide"
+    ],
+    "administrative": [
+      "Setup guide",
+      "Maintenance manual"
+    ]
+  },
+  "documentation_tools": [
+    "Markdown",
+    "Diagrams.net",
+    "Video recording"
+  ]
+}

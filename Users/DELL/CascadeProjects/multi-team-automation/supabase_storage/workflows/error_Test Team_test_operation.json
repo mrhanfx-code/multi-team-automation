@@ -1,0 +1,10 @@
+{
+  "type": "error_threshold_reached",
+  "team_name": "Test Team",
+  "operation": "test_operation",
+  "attempt_count": 3,
+  "error_message": "Failed attempt #3",
+  "error_type": "Exception",
+  "triggered_research": true,
+  "timestamp": "2026-05-10T15:56:21.724104"
+}

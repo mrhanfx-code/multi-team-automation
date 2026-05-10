@@ -1,0 +1,140 @@
+{
+  "team_members": [
+    {
+      "id": "research_lead_001",
+      "name": "Dr. Sarah Chen",
+      "team": "Research Team",
+      "skills": [
+        "market_research",
+        "data_analysis",
+        "academic_research",
+        "competitive_analysis"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.95,
+      "specializations": [
+        "market_analysis",
+        "trend_forecasting"
+      ],
+      "current_tasks": null
+    },
+    {
+      "id": "research_analyst_001",
+      "name": "Michael Rodriguez",
+      "team": "Research Team",
+      "skills": [
+        "technical_research",
+        "user_research",
+        "industry_analysis"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.88,
+      "specializations": [
+        "technical_feasibility",
+        "user_experience"
+      ],
+      "current_tasks": null
+    },
+    {
+      "id": "planning_lead_001",
+      "name": "Jennifer Liu",
+      "team": "Planning Team",
+      "skills": [
+        "project_planning",
+        "resource_planning",
+        "strategic_planning",
+        "risk_planning"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.92,
+      "specializations": [
+        "strategic_planning",
+        "resource_optimization"
+      ],
+      "current_tasks": null
+    },
+    {
+      "id": "planning_analyst_001",
+      "name": "Robert Kim",
+      "team": "Planning Team",
+      "skills": [
+        "timeline_planning",
+        "budget_planning",
+        "process_development"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.85,
+      "specializations": [
+        "timeline_optimization",
+        "budget_analysis"
+      ],
+      "current_tasks": null
+    },
+    {
+      "id": "dev_lead_001",
+      "name": "Alex Thompson",
+      "team": "Development Team",
+      "skills": [
+        "software_development",
+        "system_development",
+        "architecture",
+        "security"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.94,
+      "specializations": [
+        "system_architecture",
+        "security_engineering"
+      ],
+      "current_tasks": null
+    },
+    {
+      "id": "dev_senior_001",
+      "name": "Emily Watson",
+      "team": "Development Team",
+      "skills": [
+        "software_development",
+        "product_development",
+        "prototype_development"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.9,
+      "specializations": [
+        "frontend_development",
+        "user_interface"
+      ],
+      "current_tasks": null
+    },
+    {
+      "id": "dev_junior_001",
+      "name": "David Park",
+      "team": "Development Team",
+      "skills": [
+        "software_development",
+        "document_development",
+        "testing"
+      ],
+      "current_workload": 0,
+      "max_workload": 40,
+      "availability": 1.0,
+      "performance_rating": 0.82,
+      "specializations": [
+        "documentation",
+        "quality_assurance"
+      ],
+      "current_tasks": null
+    }
+  ]
+}

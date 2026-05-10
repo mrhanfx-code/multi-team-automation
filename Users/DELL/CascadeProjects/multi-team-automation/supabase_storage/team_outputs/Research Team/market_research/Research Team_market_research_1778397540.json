@@ -1,0 +1,25 @@
+{
+  "id": "Research Team_market_research_1778397540",
+  "team_name": "Research Team",
+  "output_type": "market_research",
+  "timestamp": "2026-05-10T15:19:00.290014",
+  "data": {
+    "research_type": "market_analysis",
+    "findings": [
+      "Market size: $2.5B annually",
+      "Growth rate: 15% YoY",
+      "Key competitors: 3 major players"
+    ],
+    "recommendations": [
+      "Enter market with premium pricing",
+      "Focus on differentiation",
+      "Target enterprise segment"
+    ],
+    "confidence": 85,
+    "sources": [
+      "Industry reports",
+      "Competitor analysis",
+      "Market surveys"
+    ]
+  }
+}

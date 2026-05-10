@@ -1,0 +1,10 @@
+{
+  "type": "error_threshold_reached",
+  "team_name": "Development Team",
+  "operation": "software_development",
+  "attempt_count": 3,
+  "error_message": "Connection pool exhausted - max connections reached",
+  "error_type": "ConnectionError",
+  "triggered_research": true,
+  "timestamp": "2026-05-10T15:56:30.887449"
+}

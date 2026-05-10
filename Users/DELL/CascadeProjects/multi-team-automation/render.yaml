@@ -1,0 +1,35 @@
+services:
+  # MFM Corporation Dashboard
+  - type: web
+    name: mfm-dashboard
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python enhanced_dashboard_server.py
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
+      - key: JWT_SECRET_KEY
+        sync: false
+        generateValue: true
+      - key: APP_NAME
+        value: MFM Corporation Multi-Team Automation
+      - key: APP_VERSION
+        value: 3.0.0
+      - key: ENVIRONMENT
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: 8000
+      - key: ENABLE_LEGAL_TEAM
+        value: true
+      - key: ENABLE_OPERATIONS_MANAGER
+        value: true
+      - key: ENABLE_INNOVATION_TEAM
+        value: true

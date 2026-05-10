@@ -1,0 +1,19 @@
+{
+  "id": "Development Team_technical_architecture_1778397540",
+  "team_name": "Development Team",
+  "output_type": "technical_architecture",
+  "timestamp": "2026-05-10T15:19:00.299464",
+  "data": {
+    "architecture": "Microservices with Supabase backend",
+    "tech_stack": [
+      "Python",
+      "Supabase",
+      "React",
+      "Docker"
+    ],
+    "database": "PostgreSQL via Supabase",
+    "storage": "Supabase Storage (1GB free tier)",
+    "api": "RESTful APIs with real-time updates",
+    "deployment": "GitHub Actions + Cloud hosting"
+  }
+}

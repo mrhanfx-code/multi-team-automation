@@ -1,0 +1,10 @@
+{
+  "type": "error_threshold_reached",
+  "team_name": "General Manager",
+  "operation": "executive_review",
+  "attempt_count": 3,
+  "error_message": "Configuration validation failed",
+  "error_type": "ValueError",
+  "triggered_research": true,
+  "timestamp": "2026-05-10T15:56:38.978489"
+}

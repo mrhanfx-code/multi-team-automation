@@ -1,0 +1,19 @@
+{
+  "team_name": "Management Team",
+  "assessment_date": "2026-05-10 15:30:53.826664",
+  "standard_name": "comprehensive",
+  "overall_score": 0.8881921066831355,
+  "individual_scores": {},
+  "compliance_status": "ComplianceStatus.PARTIALLY_COMPLIANT",
+  "findings": [
+    "\u26a0\ufe0f Management Quality Standards: Score 88.10% below minimum 90.00%"
+  ],
+  "recommendations": [
+    "\ud83d\udcca Schedule regular quality reviews and assessments",
+    "\ud83c\udf93 Provide training on quality standards and best practices",
+    "\ud83d\udd04 Implement continuous improvement processes",
+    "\ud83d\udcc8 Monitor quality metrics and trends over time"
+  ],
+  "next_review_date": "2026-05-24 15:30:53.826669",
+  "assessor": "Quality Control Manager"
+}

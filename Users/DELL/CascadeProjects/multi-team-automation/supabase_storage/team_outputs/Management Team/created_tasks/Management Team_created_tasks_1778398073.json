@@ -1,0 +1,181 @@
+{
+  "tasks": [
+    {
+      "id": "task_001",
+      "title": "Comprehensive Market Research",
+      "description": "Conduct detailed market analysis including competitor research and market sizing",
+      "task_type": "market_research",
+      "priority": "TaskPriority.HIGH",
+      "estimated_hours": 16,
+      "required_skills": [
+        "market_research",
+        "data_analysis",
+        "competitive_analysis"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-15 15:27:53.189654",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.85,
+        "sources_required": 10
+      },
+      "metadata": null
+    },
+    {
+      "id": "task_002",
+      "title": "Technical Feasibility Analysis",
+      "description": "Analyze technical requirements and feasibility for proposed solution",
+      "task_type": "technical_research",
+      "priority": "TaskPriority.HIGH",
+      "estimated_hours": 12,
+      "required_skills": [
+        "technical_research",
+        "system_analysis",
+        "architecture"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-14 15:27:53.189696",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.88,
+        "technical_depth": "high"
+      },
+      "metadata": null
+    },
+    {
+      "id": "task_003",
+      "title": "Comprehensive Project Plan",
+      "description": "Create detailed project plan with timelines, resources, and milestones",
+      "task_type": "project_planning",
+      "priority": "TaskPriority.CRITICAL",
+      "estimated_hours": 20,
+      "required_skills": [
+        "project_planning",
+        "resource_planning",
+        "timeline_planning"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-17 15:27:53.189717",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.9,
+        "detail_level": "comprehensive"
+      },
+      "metadata": null
+    },
+    {
+      "id": "task_004",
+      "title": "Resource Allocation Plan",
+      "description": "Plan resource allocation including budget, team, and infrastructure needs",
+      "task_type": "resource_planning",
+      "priority": "TaskPriority.HIGH",
+      "estimated_hours": 14,
+      "required_skills": [
+        "resource_planning",
+        "budget_planning",
+        "capacity_planning"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-16 15:27:53.189729",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.87,
+        "optimization_level": "high"
+      },
+      "metadata": null
+    },
+    {
+      "id": "task_005",
+      "title": "Core Software Development",
+      "description": "Develop core software components and functionality",
+      "task_type": "software_development",
+      "priority": "TaskPriority.CRITICAL",
+      "estimated_hours": 40,
+      "required_skills": [
+        "software_development",
+        "system_architecture",
+        "security"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-24 15:27:53.189740",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.85,
+        "code_coverage": "85%",
+        "security_review": "required"
+      },
+      "metadata": null
+    },
+    {
+      "id": "task_006",
+      "title": "System Architecture Development",
+      "description": "Design and implement system architecture and infrastructure",
+      "task_type": "system_development",
+      "priority": "TaskPriority.HIGH",
+      "estimated_hours": 32,
+      "required_skills": [
+        "system_development",
+        "architecture",
+        "infrastructure"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-22 15:27:53.189752",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.88,
+        "scalability": "required",
+        "performance": "optimized"
+      },
+      "metadata": null
+    },
+    {
+      "id": "task_007",
+      "title": "Comprehensive Documentation",
+      "description": "Create complete documentation set including user guides and technical docs",
+      "task_type": "document_development",
+      "priority": "TaskPriority.MEDIUM",
+      "estimated_hours": 16,
+      "required_skills": [
+        "document_development",
+        "technical_writing",
+        "user_experience"
+      ],
+      "dependencies": [],
+      "deadline": "2026-05-20 15:27:53.189769",
+      "assigned_to": null,
+      "status": "TaskStatus.PENDING",
+      "created_at": null,
+      "assigned_at": null,
+      "completed_at": null,
+      "quality_requirements": {
+        "minimum_quality_score": 0.83,
+        "completeness": "100%"
+      },
+      "metadata": null
+    }
+  ]
+}

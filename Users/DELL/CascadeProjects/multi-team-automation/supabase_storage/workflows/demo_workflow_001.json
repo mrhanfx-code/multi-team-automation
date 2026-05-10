@@ -1,0 +1,18 @@
+{
+  "id": "demo_workflow_001",
+  "status": "completed",
+  "current_team": "Development Team",
+  "started_at": "2026-05-10T15:19:00.303218",
+  "updated_at": "2026-05-10T15:19:00.303265",
+  "completed_at": null,
+  "data": {
+    "total_tasks": 15,
+    "completed_tasks": 15,
+    "success_rate": 100,
+    "total_time": "4 hours"
+  },
+  "metadata": {
+    "version": "1.0",
+    "environment": "production"
+  }
+}

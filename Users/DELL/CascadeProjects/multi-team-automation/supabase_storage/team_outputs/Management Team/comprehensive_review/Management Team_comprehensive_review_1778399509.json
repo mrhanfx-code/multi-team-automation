@@ -1,0 +1,82 @@
+{
+  "review_id": "mgmt_review_20260510_155147",
+  "review_date": "2026-05-10T15:51:49.658344",
+  "team_assessments": {
+    "Development Team": {
+      "team_name": "Development Team",
+      "overall_score": 0.9199999999999999,
+      "performance_level": "OUTSTANDING",
+      "strengths": [
+        "Development Team delivered high-quality outputs",
+        "Met deadlines effectively"
+      ],
+      "recommendations": [
+        "Continue excellent work Development Team",
+        "Focus on continuous improvement"
+      ]
+    },
+    "Research Team": {
+      "team_name": "Research Team",
+      "overall_score": 0.92,
+      "performance_level": "OUTSTANDING",
+      "strengths": [
+        "Research Team delivered high-quality outputs",
+        "Met deadlines effectively"
+      ],
+      "recommendations": [
+        "Continue excellent work Research Team",
+        "Focus on continuous improvement"
+      ]
+    },
+    "Planning Team": {
+      "team_name": "Planning Team",
+      "overall_score": 0.89,
+      "performance_level": "EXCEEDS_EXPECTATIONS",
+      "strengths": [
+        "Planning Team delivered high-quality outputs",
+        "Met deadlines effectively"
+      ],
+      "recommendations": [
+        "Continue excellent work Planning Team",
+        "Focus on continuous improvement"
+      ]
+    }
+  },
+  "overall_assessment": {
+    "total_score": 0.91,
+    "assessment_level": "EXCELLENT",
+    "strengths": [
+      "Research Team delivered high-quality outputs",
+      "Development Team delivered high-quality outputs",
+      "Met deadlines effectively",
+      "Planning Team delivered high-quality outputs"
+    ],
+    "areas_for_improvement": []
+  },
+  "strategic_decisions": {
+    "project_approval": "APPROVED",
+    "deployment_decision": "PROCEED_WITH_DEPLOYMENT",
+    "strategic_initiatives": [
+      "Initiative 1: Implement continuous improvement program",
+      "Initiative 2: Enhance cross-team collaboration",
+      "Initiative 3: Invest in team training and development"
+    ]
+  },
+  "quality_assurance_results": {
+    "quality_standards_met": true,
+    "quality_score_distribution": {
+      "average_score": 0.91,
+      "min_score": 0.89,
+      "max_score": 0.92
+    }
+  },
+  "action_items": [
+    "Implement strategic initiatives",
+    "Monitor quality improvements",
+    "Conduct regular performance reviews"
+  ],
+  "review_metadata": {
+    "total_teams_reviewed": 3,
+    "review_duration_hours": 4
+  }
+}

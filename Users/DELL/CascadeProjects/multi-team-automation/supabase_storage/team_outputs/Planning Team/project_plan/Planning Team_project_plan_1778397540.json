@@ -1,0 +1,28 @@
+{
+  "id": "Planning Team_project_plan_1778397540",
+  "team_name": "Planning Team",
+  "output_type": "project_plan",
+  "timestamp": "2026-05-10T15:19:00.294151",
+  "data": {
+    "project_name": "Multi-Team Automation System",
+    "timeline": "6 months",
+    "budget": "$500,000",
+    "resources": [
+      "5 developers",
+      "2 PMs",
+      "1 QA"
+    ],
+    "milestones": [
+      "Month 1: Infrastructure setup",
+      "Month 2-3: Core development",
+      "Month 4: Testing & QA",
+      "Month 5: Deployment",
+      "Month 6: Optimization"
+    ],
+    "risks": [
+      "Technical complexity",
+      "Resource availability",
+      "Market changes"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "plan_id": "qip_Development Team_20260510_153053",
+  "team_name": "Development Team",
+  "assessment_reference": "2026-05-10T15:30:53.054955",
+  "current_quality_score": 0.8609129662930648,
+  "target_quality_score": 0.9609129662930648,
+  "improvement_areas": [
+    "\u26a0\ufe0f Development Quality Standards: Score 86.10% below minimum 88.00%"
+  ],
+  "improvement_actions": [
+    {
+      "action": "Conduct root cause analysis for quality issues",
+      "priority": "HIGH",
+      "deadline": "2026-05-17T15:30:53.847825",
+      "responsible": "Development Team",
+      "resources_required": [
+        "Quality analyst",
+        "Process documentation"
+      ]
+    },
+    {
+      "action": "Implement immediate corrective actions",
+      "priority": "CRITICAL",
+      "deadline": "2026-05-13T15:30:53.847849",
+      "responsible": "Development Team",
+      "resources_required": [
+        "Team lead time",
+        "Quality tools"
+      ]
+    },
+    {
+      "action": "Schedule follow-up quality assessment",
+      "priority": "MEDIUM",
+      "deadline": "2026-05-24T15:30:53.847854",
+      "responsible": "Quality Control Manager",
+      "resources_required": [
+        "Assessment time",
+        "Metrics tools"
+      ]
+    },
+    {
+      "action": "Enhance team training on quality standards",
+      "priority": "MEDIUM",
+      "deadline": "2026-05-31T15:30:53.847860",
+      "responsible": "Development Team",
+      "resources_required": [
+        "Training materials",
+        "Expert time"
+      ]
+    },
+    {
+      "action": "Implement quality monitoring tools",
+      "priority": "LOW",
+      "deadline": "2026-06-09T15:30:53.847864",
+      "responsible": "Development Team",
+      "resources_required": [
+        "Software tools",
+        "Integration support"
+      ]
+    }
+  ],
+  "success_metrics": [
+    "Quality score >= 96.09%",
+    "All quality standards compliant",
+    "No critical quality issues",
+    "Team satisfaction with quality processes >= 80%"
+  ],
+  "review_schedule": [
+    "2026-05-17T15:30:53.847880",
+    "2026-05-24T15:30:53.847883",
+    "2026-06-09T15:30:53.847886"
+  ],
+  "created_date": "2026-05-10T15:30:53.847890",
+  "created_by": "Quality Control Manager"
+}

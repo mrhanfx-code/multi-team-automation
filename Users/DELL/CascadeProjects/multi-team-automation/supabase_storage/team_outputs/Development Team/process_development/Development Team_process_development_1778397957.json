@@ -1,0 +1,25 @@
+{
+  "development_type": "process_development",
+  "quality_score": 0.9299999999999999,
+  "completion_time": "8 hours",
+  "team_size": 3,
+  "challenges": [],
+  "innovations": [],
+  "process_workflows": [
+    "Automated research-to-planning workflow",
+    "Development pipeline with quality gates",
+    "Management review and approval process",
+    "Continuous improvement cycle"
+  ],
+  "process_metrics": {
+    "efficiency_improvement": "35%",
+    "error_reduction": "40%",
+    "time_to_completion": "Reduced by 50%",
+    "quality_consistency": "95%"
+  },
+  "automation_level": {
+    "manual_tasks": "15%",
+    "semi_automated": "25%",
+    "fully_automated": "60%"
+  }
+}

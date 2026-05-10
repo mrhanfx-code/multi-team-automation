@@ -1,0 +1,64 @@
+{
+  "report_id": "qr_20260510_153053",
+  "generated_date": "2026-05-10 15:30:53.835462",
+  "period_covered": "2026-04-10 to 2026-05-10",
+  "overall_compliance_rate": 0.0,
+  "team_performance": {
+    "Research Team": {
+      "average_score": 0.8740568379048643,
+      "trend": "stable",
+      "latest_assessment": {
+        "date": "2026-05-10 15:30:51.509117",
+        "score": 0.8740568379048643,
+        "status": "pending_review"
+      },
+      "assessment_count": 1
+    },
+    "Planning Team": {
+      "average_score": 0.9065636661764015,
+      "trend": "stable",
+      "latest_assessment": {
+        "date": "2026-05-10 15:30:52.294761",
+        "score": 0.9065636661764015,
+        "status": "pending_review"
+      },
+      "assessment_count": 1
+    },
+    "Development Team": {
+      "average_score": 0.8609129662930648,
+      "trend": "stable",
+      "latest_assessment": {
+        "date": "2026-05-10 15:30:53.054955",
+        "score": 0.8609129662930648,
+        "status": "partially_compliant"
+      },
+      "assessment_count": 1
+    },
+    "Management Team": {
+      "average_score": 0.8881921066831355,
+      "trend": "stable",
+      "latest_assessment": {
+        "date": "2026-05-10 15:30:53.826664",
+        "score": 0.8881921066831355,
+        "status": "partially_compliant"
+      },
+      "assessment_count": 1
+    }
+  },
+  "quality_trends": {},
+  "critical_issues": [],
+  "recommendations": [
+    "\ud83d\udcca Implement real-time quality monitoring dashboards",
+    "\ud83c\udfaf Focus on teams with declining quality trends",
+    "\ud83d\udd04 Standardize quality assessment processes across teams",
+    "\ud83d\udcc8 Establish quality improvement targets and KPIs",
+    "\ud83c\udf93 Provide targeted training for identified quality gaps"
+  ],
+  "quality_improvement_initiatives": [
+    "Quality Standards Enhancement Program",
+    "Cross-Team Quality Best Practices Sharing",
+    "Automated Quality Monitoring System",
+    "Quality Certification Program",
+    "Continuous Quality Improvement Workshops"
+  ]
+}

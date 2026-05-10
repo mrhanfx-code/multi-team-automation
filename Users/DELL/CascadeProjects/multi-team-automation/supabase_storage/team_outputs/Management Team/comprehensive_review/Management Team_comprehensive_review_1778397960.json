@@ -1,0 +1,172 @@
+{
+  "review_id": "mgmt_review_20260510_152558",
+  "review_date": "2026-05-10T15:26:00.820609",
+  "team_assessments": {
+    "Development Team": {
+      "team_name": "Development Team",
+      "overall_score": 0.8933333333333332,
+      "performance_level": "EXCEEDS_EXPECTATIONS",
+      "strengths": [
+        "Development Team delivered high-quality outputs",
+        "Met deadlines effectively",
+        "Collaborated well with other teams"
+      ],
+      "weaknesses": [],
+      "recommendations": [
+        "Continue excellent work Development Team",
+        "Focus on continuous improvement",
+        "Share best practices with other teams"
+      ],
+      "resource_needs": {
+        "additional_resources": false,
+        "current_resources_adequate": true
+      },
+      "timeline_adherence": "ON_SCHEDULE",
+      "budget_compliance": "WITHIN_BUDGET",
+      "quality_compliance": "COMPLIANT"
+    },
+    "Research Team": {
+      "team_name": "Research Team",
+      "overall_score": 0.92,
+      "performance_level": "OUTSTANDING",
+      "strengths": [
+        "Research Team delivered high-quality outputs",
+        "Met deadlines effectively",
+        "Collaborated well with other teams"
+      ],
+      "weaknesses": [],
+      "recommendations": [
+        "Continue excellent work Research Team",
+        "Focus on continuous improvement",
+        "Share best practices with other teams"
+      ],
+      "resource_needs": {
+        "additional_resources": false,
+        "current_resources_adequate": true
+      },
+      "timeline_adherence": "ON_SCHEDULE",
+      "budget_compliance": "WITHIN_BUDGET",
+      "quality_compliance": "COMPLIANT"
+    },
+    "Planning Team": {
+      "team_name": "Planning Team",
+      "overall_score": 0.89,
+      "performance_level": "EXCEEDS_EXPECTATIONS",
+      "strengths": [
+        "Planning Team delivered high-quality outputs",
+        "Met deadlines effectively",
+        "Collaborated well with other teams"
+      ],
+      "weaknesses": [],
+      "recommendations": [
+        "Continue excellent work Planning Team",
+        "Focus on continuous improvement",
+        "Share best practices with other teams"
+      ],
+      "resource_needs": {
+        "additional_resources": false,
+        "current_resources_adequate": true
+      },
+      "timeline_adherence": "ON_SCHEDULE",
+      "budget_compliance": "WITHIN_BUDGET",
+      "quality_compliance": "COMPLIANT"
+    }
+  },
+  "overall_assessment": {
+    "total_score": 0.9011111111111111,
+    "assessment_level": "EXCELLENT",
+    "strengths": [
+      "Development Team delivered high-quality outputs",
+      "Research Team delivered high-quality outputs",
+      "Met deadlines effectively",
+      "Collaborated well with other teams",
+      "Planning Team delivered high-quality outputs"
+    ],
+    "areas_for_improvement": [],
+    "critical_issues": []
+  },
+  "strategic_decisions": {
+    "project_approval": "APPROVED",
+    "deployment_decision": "PROCEED_WITH_DEPLOYMENT",
+    "resource_allocation": {
+      "additional_resources_needed": false,
+      "resource_reallocation": [],
+      "budget_adjustments": "NO_CHANGE"
+    },
+    "strategic_initiatives": [
+      "Initiative 1: Implement continuous improvement program",
+      "Initiative 2: Enhance cross-team collaboration",
+      "Initiative 3: Invest in team training and development"
+    ],
+    "risk_mitigation_actions": [
+      "Regular monitoring and reporting",
+      "Contingency planning",
+      "Cross-training team members"
+    ],
+    "quality_improvement_plan": [
+      "Implement quality metrics",
+      "Conduct regular reviews",
+      "Provide training programs"
+    ],
+    "timeline_adjustments": "NO_ADJUSTMENT_NEEDED",
+    "stakeholder_communications": [
+      "Weekly progress reports",
+      "Monthly stakeholder updates",
+      "Executive summaries"
+    ]
+  },
+  "quality_assurance_results": {
+    "quality_standards_met": true,
+    "quality_score_distribution": {
+      "average_score": 0.9011111111111111,
+      "min_score": 0.89,
+      "max_score": 0.92
+    },
+    "compliance_status": "FULLY_COMPLIANT"
+  },
+  "risk_assessment": {
+    "overall_risk_level": "LOW",
+    "risk_categories": {
+      "technical_risk": "LOW",
+      "operational_risk": "LOW",
+      "financial_risk": "MEDIUM",
+      "timeline_risk": "LOW"
+    },
+    "mitigation_strategies": [
+      "Regular monitoring and reporting",
+      "Contingency planning",
+      "Cross-training team members"
+    ]
+  },
+  "resource_allocation": {
+    "human_resources": {
+      "additional_staff_needed": 0,
+      "skill_gaps_identified": [],
+      "training_requirements": []
+    },
+    "financial_resources": {
+      "budget_adjustment": "+$5,000 for quality improvements",
+      "contingency_fund": "$10,000",
+      "roi_projection": "150% within 12 months"
+    }
+  },
+  "action_items": [
+    "Implement strategic initiatives",
+    "Monitor quality improvements",
+    "Conduct regular performance reviews",
+    "Maintain stakeholder communications"
+  ],
+  "follow_up_plan": {
+    "review_frequency": "BI-WEEKLY",
+    "next_major_review": "2026-05-24T15:26:00.820670"
+  },
+  "review_metadata": {
+    "total_teams_reviewed": 3,
+    "review_duration_hours": 4,
+    "reviewers": [
+      "Management Lead",
+      "Quality Manager",
+      "Risk Manager"
+    ]
+  }
+}
