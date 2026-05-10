@@ -21,9 +21,8 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from pydantic import BaseModel
 import websockets
 
-# Add src to path
+# Add current directory to path
 import sys
-sys.path.append('src')
 sys.path.append('.')
 
 from unified_system import MultiTeamAutomationSystem
