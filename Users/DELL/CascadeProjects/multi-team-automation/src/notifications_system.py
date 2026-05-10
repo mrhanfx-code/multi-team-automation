@@ -174,7 +174,7 @@ class NotificationsSystem:
             message=message,
             priority=severity,
             channels=[NotificationChannel.EMAIL, NotificationChannel.DASHBOARD],
-            metadata={**metadata or {}, "alert_type": alert_type}
+            metadata={**(metadata or {}), "alert_type": alert_type}
         )
     
     async def send_performance_alert(self, team_name: str, metric_name: str, 

@@ -421,12 +421,12 @@ class GoogleDriveManager:
         return None
     
     def _calculate_file_hash(self, file_path: Path) -> str:
-        """Calculate MD5 hash of file"""
-        hash_md5 = hashlib.md5()
+        """Calculate SHA-256 hash of file"""
+        hash_sha256 = hashlib.sha256()
         with open(file_path, "rb") as f:
             for chunk in iter(lambda: f.read(4096), b""):
-                hash_md5.update(chunk)
-        return hash_md5.hexdigest()
+                hash_sha256.update(chunk)
+        return hash_sha256.hexdigest()
     
     async def save_team_output(self, team_name: str, output_data: Dict[str, Any], 
                               output_type: str = "report"):

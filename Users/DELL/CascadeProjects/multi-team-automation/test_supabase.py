@@ -39,8 +39,8 @@ async def test_supabase_connection():
         print("   SUPABASE_KEY=your_supabase_key")
         print()
         print("🔧 You can also set them as environment variables:")
-        print("   export SUPABASE_URL='https://mfuitzqvsnxatpquslpu.supabase.co'")
-        print("   export SUPABASE_KEY='sb_publishable_fq0YDG3R-gkkt9dhlpRqgA_-N2zvc_d'")
+        print("   export SUPABASE_URL='your_supabase_url'")
+        print("   export SUPABASE_KEY='your_supabase_key'")
         return False
     
     print(f"✅ Environment variables loaded")
