@@ -1,11 +1,10 @@
 services:
-  # MFM Corporation Dashboard
   - type: web
     name: mfm-dashboard
-    env: python
+    runtime: python
     plan: free
     buildCommand: pip install fastapi uvicorn python-dotenv supabase aiofiles pydantic websockets
-    startCommand: python ./enhanced_dashboard_server.py
+    startCommand: python enhanced_dashboard_server.py
     healthCheckPath: /api/health
     envVars:
       - key: PYTHON_VERSION
@@ -28,8 +27,8 @@ services:
       - key: PORT
         value: 8000
       - key: ENABLE_LEGAL_TEAM
-        value: true
+        value: "true"
       - key: ENABLE_OPERATIONS_MANAGER
-        value: true
+        value: "true"
       - key: ENABLE_INNOVATION_TEAM
-        value: true
+        value: "true"
