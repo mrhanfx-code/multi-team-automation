@@ -3,6 +3,7 @@ services:
     name: mfm-dashboard
     runtime: python
     plan: free
+    rootDir: .
     buildCommand: pip install fastapi uvicorn python-dotenv supabase aiofiles pydantic websockets
     startCommand: python enhanced_dashboard_server.py
     healthCheckPath: /api/health
