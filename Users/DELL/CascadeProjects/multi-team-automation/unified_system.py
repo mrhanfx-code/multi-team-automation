@@ -1152,18 +1152,18 @@ class MultiTeamAutomationSystem:
             })
             
             # Send workflow completed notification
-        if self.notifications_system:
-            await self.notifications_system.send_workflow_notification(
-                workflow_id=workflow_id,
-                status="completed",
-                metadata={"topic": research_topic, "scope": research_scope}
-            )
-        
-        # Add to workflow history
-        self.workflow_history.append(workflow_results)
-        
-        logger.info(f"✅ Workflow {workflow_id} completed successfully")
-        return workflow_results
+            if self.notifications_system:
+                await self.notifications_system.send_workflow_notification(
+                    workflow_id=workflow_id,
+                    status="completed",
+                    metadata={"topic": research_topic, "scope": research_scope}
+                )
+            
+            # Add to workflow history
+            self.workflow_history.append(workflow_results)
+            
+            logger.info(f"✅ Workflow {workflow_id} completed successfully")
+            return workflow_results
             
         except Exception as e:
             logger.error(f"❌ Expanded workflow execution failed: {e}")
